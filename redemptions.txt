@@ -1,0 +1,37 @@
+9000 Promo F&B,7,1,PaloAlto Breakfast,245.50,81001,false
+9000 Promo F&B,7,4,PaloAlto Breakfast Tax,20.25,81001,false
+9000 Promo F&B,7,5,PaloAlto Breakfast Grat,41.75,81001,false
+9000 Promo F&B,7,2,PaloAlto Dinner,389.90,81002,false
+9000 Promo F&B,7,4,PaloAlto Dinner Tax,32.17,81002,false
+9000 Promo F&B,7,5,PaloAlto Dinner Grat,68.40,81002,false
+9000 Promo F&B,5,1,IRD Breakfast,-84.25,81003,false
+9000 Promo F&B,5,4,IRD Tax,-6.95,81003,false
+9000 Promo F&B,5,5,IRD Gratuity,-14.30,81003,false
+9000 Promo F&B,7,1,PaloAlto Coffee,64.80,81004,true
+
+9001 Promo Sales,6,1,Gift Shop Retail,312.45,82001,false
+9001 Promo Sales,6,4,Gift Shop Tax,25.78,82001,false
+9001 Promo Sales,6,2,Market Snacks,184.60,82002,false
+9001 Promo Sales,6,4,Market Tax,15.23,82002,false
+9001 Promo Sales,6,3,Market Drinks,241.90,82003,false
+9001 Promo Sales,6,4,Market Drinks Tax,19.96,82003,false
+9001 Promo Sales,6,1,Gift Shop Correction,-96.40,82004,false
+
+9002 Promo A&G,5,1,IRD Breakfast,418.35,83001,false
+9002 Promo A&G,5,4,IRD Breakfast Tax,34.51,83001,false
+9002 Promo A&G,5,5,IRD Breakfast Grat,72.20,83001,false
+9002 Promo A&G,5,2,IRD Lunch,276.75,83002,false
+9002 Promo A&G,5,4,IRD Lunch Tax,22.83,83002,false
+9002 Promo A&G,5,5,IRD Lunch Grat,48.90,83002,false
+9002 Promo A&G,5,1,IRD Duplicate Settlement,-118.00,83003,false
+9002 Promo A&G,7,2,PaloAlto Late Meal,397.60,83004,false
+9002 Promo A&G,7,4,PaloAlto Late Meal Tax,32.80,83004,false
+
+9003 Promo Rooms,1,1,Room Charge,529.00,84001,false
+9003 Promo Rooms,1,4,Room Tax,43.64,84001,false
+9003 Promo Rooms,1,6,Occupancy Fee,18.75,84001,false
+9003 Promo Rooms,1,1,Room Charge Correction,-129.00,84002,false
+9003 Promo Rooms,1,4,Tax Correction,-10.64,84002,false
+9003 Promo Rooms,1,1,Suite Upgrade,196.50,84003,false
+9003 Promo Rooms,1,4,Suite Upgrade Tax,16.21,84003,false
+9003 Promo Rooms,1,7,Resort Fee,64.95,84004,true
